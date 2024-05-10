@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+.first-heading{
+    font-size: 6rem;
+}
+
+#first-paragraph{
+    color: brown;
+    font-size: 3rem;
+}
